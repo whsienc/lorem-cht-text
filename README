@@ -1,0 +1,7 @@
+感謝 http://handlino.com/ 提供的 [moretext.js http://more.handlino.com/]
+
+但我常需要在無網路的情況工作, 所以寫了這個小工具
+
+EX: <p class="lorem(5,15-25)"></p>
+
+就是產生5句15~25個字的癈文.
